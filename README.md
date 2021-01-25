@@ -1,4 +1,4 @@
-# Defect_Prediction_on_Crash-prone_Smart_Contract
+# Automatic Identification of Crash Smart Contracts
 
 
 A repository for sharing the smart contract dataset collected from Ethereum by **July 31, 2019**.
