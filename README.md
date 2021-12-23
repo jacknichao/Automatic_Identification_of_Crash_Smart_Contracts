@@ -6,6 +6,15 @@ We label these smart contract based on the execution status of transactions by *
 
 The labeled datas are stored in **DATA** folder in the form of csv.
 
+# Structure
+
+- Baselines
+    source code of baselines
+- CrashSCDet
+    source code of our approach including the code to extract all metrics
+- DATA
+    extracted data and filtered data.
+
 # Static Source Code Metrics
 
 We totally define 34 static source code metrics and divide them into four dimensions: "complexity metrics", "count metrics", "object oriented metrics" and "solidity specific metrics". 
